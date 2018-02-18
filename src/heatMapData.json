@@ -1,0 +1,38 @@
+[
+  {
+    "county": "BURU",
+    "population": 368987,
+    "latlng": [
+      127.0771228,
+      -3.233398
+    ],
+    "priceIndicator": 5.6
+  },
+  {
+    "county": "TUAL",
+    "population": 64698,
+    "latlng": [
+      132.0581738,
+      -5.4490847
+    ],
+    "priceIndicator": 1.126168299176153
+  },
+  {
+    "county": "ARU ISLAND",
+    "population": 93722,
+    "latlng": [
+      133.3556737,
+      -6.2079874
+    ],
+    "priceIndicator": 1.1721265505787988
+  },
+  {
+    "county": "CENTRAL MALUKU REGENCY",
+    "population": 402900,
+    "latlng": [
+      127.8838789,
+      -3.6619261
+    ],
+    "priceIndicator": 1.1721265505787988
+  }
+]

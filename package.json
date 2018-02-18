@@ -1,0 +1,22 @@
+{
+  "name": "react-mapbox",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "example-cities": "^0.0.0",
+    "mapbox-gl": "^0.44.1",
+    "r-dom": "^2.4.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-map-gl": "^3.2.4",
+    "react-map-gl-heatmap-overlay": "^1.1.4",
+    "react-mapbox-gl": "^3.8.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
