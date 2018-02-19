@@ -1,0 +1,101 @@
+[
+  {
+    "county": "BURU",
+    "population": 368987,
+    "latlng": [
+      127.0771228,
+      -3.233398
+    ],
+    "API": 0.96
+  },
+  {
+    "county": "TUAL",
+    "population": 64698,
+    "latlng": [
+      132.0581738,
+      -5.4490847
+    ],
+    "API": 3.5
+  },
+  {
+    "county": "ARU ISLAND",
+    "population": 93722,
+    "latlng": [
+      134.2086308,
+      -5.7557655
+    ],
+    "API": 13.0
+  },
+  {
+    "county": "CENTRAL MALUKU REGENCY",
+    "population": 402900,
+    "latlng": [
+      128.9404204,
+      -3.304371
+    ],
+    "API": 5.0
+  },
+  {
+    "county": "AMBON",
+    "population": 368987,
+    "latlng": [
+      128.1145813,
+      -3.7045931      
+    ],
+    "API": 4.0
+  },
+  {
+    "county": "BULA",
+    "population": 110350,
+    "latlng": [
+      130.4897288,
+      -3.1096585
+    ],
+    "API": 7.0
+  },
+  {
+    "county": "NAMROLE",
+    "population": 59785,
+    "latlng": [
+      126.6060618,
+      -3.6615823
+    ],
+    "API": 5.0
+  },
+  {
+    "county": "LANGGUR",
+    "population": 107428,
+    "latlng": [
+      132.7094145,
+      -5.6638785
+    ],
+    "API": 8.0
+  },
+  {
+    "county": "TIAKUR",
+    "population": 78769,
+    "latlng": [
+      127.6644188,
+      -8.2045143
+    ],
+    "API": 7.0
+  },
+  {
+    "county": "PIRU",
+    "population": 183412,
+    "latlng": [
+      128.1815317,
+      -3.0591965
+    ],
+    "API": 7.0
+  },
+  {
+    "county": "SAUMLAKI",
+    "population": 117341,
+    "latlng": [
+      131.180748,
+      -8.019934
+    ],
+    "API": 6.0
+  }
+]
